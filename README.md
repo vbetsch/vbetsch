@@ -2,8 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 
-🏫 Web development student<br>
-👥 Full-Stack Developer at [@limber](https://www.limber.io)<br>
+👥 Full-Stack Developer<br>
 <img src="img/email.svg" height="10px" style="padding: 0 2px;"> vbetsch.contact@gmail.com<br>
 <img src="img/linkedin.svg" height="12px" style="padding: 0 2px;"> [in/vbetsch](https://www.linkedin.com/in/vbetsch/)<br>
 
