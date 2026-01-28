@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 
-**Full-stack web developer | TypeScript & Node.js | TDD & DDD enthusiast**
-
 I craft readable, maintainable, and well-structured code, turning complex problems into elegant solutions. I love
 working with TypeScript and Node.js, designing robust architectures, and applying Test-Driven Development (
 TDD) and Domain-Driven Design (DDD) principles.
