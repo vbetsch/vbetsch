@@ -5,8 +5,8 @@
 **Full-stack web developer | TypeScript & Node.js | TDD & DDD enthusiast**
 
 I craft readable, maintainable, and well-structured code, turning complex problems into elegant solutions. I love
-working with **TypeScript** and **Node.js**, designing robust architectures, and applying **Test-Driven Development (
-TDD)** and **Domain-Driven Design (DDD)** principles.
+working with TypeScript and Node.js, designing robust architectures, and applying Test-Driven Development (
+TDD) and Domain-Driven Design (DDD) principles.
 
 🚀 Open to new opportunities<br>
 ✉️ vbetsch.contact@gmail.com<br>
