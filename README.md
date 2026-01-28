@@ -9,8 +9,8 @@ working with **TypeScript** and **Node.js**, designing robust architectures, and
 TDD)** and **Domain-Driven Design (DDD)** principles.
 
 🚀 Open to new opportunities<br>
-<img src="img/email.svg" height="10px" style="padding: 0 2px;"> vbetsch.contact@gmail.com<br>
-<img src="img/linkedin.svg" height="12px" style="padding: 0 2px;"> [in/vbetsch](https://www.linkedin.com/in/vbetsch/)<br>
+✉️ vbetsch.contact@gmail.com<br>
+👥 [in/vbetsch](https://www.linkedin.com/in/vbetsch/)<br>
 
 <details>
 <summary>Skills</summary>
