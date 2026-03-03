@@ -2,9 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 
-I craft readable, maintainable, and well-structured code, turning complex problems into elegant solutions. I love
-working with TypeScript and Node.js, designing robust architectures, and applying Test-Driven Development (TDD) and
-Domain-Driven Design (DDD) principles.
+I build readable, maintainable, and well-structured systems.
+With TypeScript and Node.js, I design robust architectures, guided by Software Craftsmanship principles.
 
 🚀 Open to new opportunities<br>
 ✉️ vbetsch.contact@gmail.com<br>
