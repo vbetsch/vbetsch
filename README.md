@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 
 I build readable, maintainable, and well-structured systems.
-With TypeScript and Node.js, I design robust architectures, guided by Software Craftsmanship principles.
+Guided by Software Craftsmanship, I design robust architectures and choose the right tools for each problem.
 
 🚀 Open to new opportunities<br>
 ✉️ vbetsch.contact@gmail.com<br>
