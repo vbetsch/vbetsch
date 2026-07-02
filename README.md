@@ -19,5 +19,5 @@ optimize my overall development workflow.
 
 [//]: # (TODO: ADD STACK)
 
-Actions speak louder than words. Take a look at my pinned repositories below to explore how I apply these craftsmanship
-principles, clean architecture, and testing methodologies in real-world projects. ⬇️
+🚀 Explore my featured repositories below to see how I apply clean architecture, TDD, and modern TypeScript workflows in
+practice.
