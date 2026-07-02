@@ -16,3 +16,6 @@ developer-friendly interfaces before writing code. To bring these interfaces to 
 in tech talks, continuously refining my network and knowledge around modern web architectures and craftsmanship. This
 same quest for technical efficiency drives me to use ArchLinux as my daily driver, leaning into custom configurations to
 optimize my overall development workflow.
+
+Actions speak louder than words. Take a look at my pinned repositories below to explore how I apply these craftsmanship
+principles, clean architecture, and testing methodologies in real-world projects. ⬇️
