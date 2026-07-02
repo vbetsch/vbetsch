@@ -4,7 +4,7 @@ As a **Full-Stack Software Engineer**, years on the field have taught me one cor
 technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
 built to last.
 
-[📁 Explore all repositories](?tab=repositories)
+[📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
 
 [LinkedIn](https://www.linkedin.com/in/vbetsch)
 [Email](mailto:vbetsch.contact@gmail.com)
