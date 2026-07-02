@@ -16,3 +16,5 @@ developer-friendly interfaces before writing code. To bring these interfaces to 
 in tech talks, continuously refining my network and knowledge around modern web architectures and craftsmanship. This
 same quest for technical efficiency drives me to use ArchLinux as my daily driver, leaning into custom configurations to
 optimize my overall development workflow.
+
+<img src="img/linkedin.svg" alt="NestJS" title="NestJS" width="30"/>
