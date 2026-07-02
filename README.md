@@ -11,17 +11,8 @@ built to last.
 [Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
-## 🧠 Beyond the Code
-
-I bridge the gap between product requirements and engineering. When needed, I build high-fidelity mockups on Figma to
-translate product vision into clear, developer-friendly interfaces. This approach aligns team members early on and
-ensures user experience is never treated as an afterthought before development begins.
-
-My operating system choice reflects my quest for efficiency. Running ArchLinux as my daily driver gives me complete
-control over my workspace through heavy ricing and tailored configurations. This custom setup keeps me free from
-mainstream tech ecosystems, while sharpening my Bash scripting skills and echoing the Linux-based architecture found
-across production servers.
-
-Continuous learning happens mostly on the ground. I actively participate in local tech meetups like LyonJS for
-deep-diving into JavaScript ecosystems, Software Crafters Lyon to refine my craftsmanship and architecture practices,
-and Apéro Web Lyon to stay connected with the local developer community.
+I bridge the gap between product and engineering by crafting Figma mockups that translate vision into developer-friendly
+interfaces before writing code. This same quest for efficiency drives me to use ArchLinux as my daily driver, leaning
+into heavy ricing and custom configurations to optimize my workflow. To stay sharp, I actively participate in local tech
+conferences and meetups, continuously refining my network and knowledge around modern web architectures and
+craftsmanship.
