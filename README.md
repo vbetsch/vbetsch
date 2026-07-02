@@ -4,8 +4,6 @@ As a **Full-Stack Software Engineer**, years on the field have taught me one cor
 technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
 built to last.
 
-[📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
-
 [LinkedIn](https://www.linkedin.com/in/vbetsch)
 [Email](mailto:vbetsch.contact@gmail.com)
 [Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
@@ -19,5 +17,7 @@ optimize my overall development workflow.
 
 [//]: # (TODO: ADD STACK)
 
-🚀 Explore my featured repositories below to see how I apply clean architecture, TDD, and modern TypeScript workflows in
-practice.
+⬇️ Explore my featured repositories below to see how I apply clean architecture, TDD, and modern TypeScript workflows in
+practice. ⬇️
+
+[📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
