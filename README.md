@@ -13,6 +13,5 @@ built to last.
 
 I bridge the gap between product and engineering by crafting Figma mockups that translate vision into developer-friendly
 interfaces before writing code. This same quest for efficiency drives me to use ArchLinux as my daily driver, leaning
-into heavy ricing and custom configurations to optimize my workflow. To stay sharp, I actively participate in local tech
-conferences and meetups, continuously refining my network and knowledge around modern web architectures and
-craftsmanship.
+into custom configurations to optimize my workflow. To stay sharp, I actively participate in tech talks, continuously
+refining my network and knowledge around modern web architectures and craftsmanship.
