@@ -17,4 +17,6 @@ in tech talks, continuously refining my network and knowledge around modern web 
 same quest for technical efficiency drives me to use ArchLinux as my daily driver, leaning into custom configurations to
 optimize my overall development workflow.
 
-<img src="img/linkedin.svg" alt="NestJS" title="NestJS" width="30"/>
+<img src="img/linkedin.svg" alt="alttext" title="title" width="30"/>
+<img src="img/linkedin.svg" title="title" width="30"/>
+<img src="img/linkedin.svg" alt="alttext" width="30"/>
