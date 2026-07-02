@@ -17,5 +17,7 @@ in tech talks, continuously refining my network and knowledge around modern web 
 same quest for technical efficiency drives me to use ArchLinux as my daily driver, leaning into custom configurations to
 optimize my overall development workflow.
 
+[//]: # (TODO: ADD STACK)
+
 Actions speak louder than words. Take a look at my pinned repositories below to explore how I apply these craftsmanship
 principles, clean architecture, and testing methodologies in real-world projects. ⬇️
