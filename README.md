@@ -14,11 +14,15 @@ built to last.
 
 [Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
-* **Product-Minded (UI/UX)**: I bridge the gap between engineering and design. I frequently craft high-fidelity mockups on
-  Figma to challenge and optimize user journeys before writing a single line of code.
+I bridge the gap between product requirements and engineering. When needed, I build high-fidelity mockups on Figma to
+translate product vision into clear, developer-friendly interfaces. This approach aligns team members early on and
+ensures user experience is never treated as an afterthought before development begins.
 
-* **System Curiosity**: Running ArchLinux as my daily driver isn't just a preference—it's a mindset. I love looking under
-  the hood, understanding operating systems, and managing environments from the core up.
+My operating system choice reflects my quest for efficiency. Running ArchLinux as my daily driver gives me complete
+control over my workspace through heavy ricing and tailored configurations. This custom setup keeps me free from
+mainstream tech ecosystems, while sharpening my Bash scripting skills and echoing the Linux-based architecture found
+across production servers.
 
-* **Community & Continuous Learning**: Passionate about technical evolution, I regularly attend tech conferences and tech
-  talks to continuously refine my vision of modern architecture and engineering standards.
+Continuous learning happens mostly on the ground. I actively participate in local tech meetups like LyonJS for
+deep-diving into JavaScript ecosystems, Software Crafters Lyon to refine my craftsmanship and architecture practices,
+and Apéro Web Lyon to stay connected with the local developer community.
