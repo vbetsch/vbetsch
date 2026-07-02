@@ -11,7 +11,8 @@ built to last.
 [Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
-I bridge the gap between product and engineering by crafting Figma mockups that translate vision into developer-friendly
-interfaces before writing code. This same quest for efficiency drives me to use ArchLinux as my daily driver, leaning
-into custom configurations to optimize my workflow. To stay sharp, I actively participate in tech talks, continuously
-refining my network and knowledge around modern web architectures and craftsmanship.
+To stay sharp, I actively participate in tech talks and conferences, continuously refining my network and knowledge
+around modern web architectures and craftsmanship. This same quest for technical efficiency drives me to use ArchLinux
+as my daily driver, leaning into custom configurations to optimize my workflow. Finally, I bridge the gap between
+product and engineering by crafting Figma mockups that translate product vision into developer-friendly interfaces
+before writing code.
