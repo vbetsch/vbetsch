@@ -14,6 +14,8 @@ built to last.
 
 [Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
+## 🧠 Beyond the Code
+
 I bridge the gap between product requirements and engineering. When needed, I build high-fidelity mockups on Figma to
 translate product vision into clear, developer-friendly interfaces. This approach aligns team members early on and
 ensures user experience is never treated as an afterthought before development begins.
