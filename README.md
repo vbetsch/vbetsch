@@ -30,4 +30,5 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vbetsch.vbetsch" alt="visitors badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=vbetsch&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/vbetsch?style=social)
