@@ -29,3 +29,5 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 ⬇️ Explore my featured repositories below to see how I apply these skills in practice. ⬇️
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vbetsch.vbetsch" />
