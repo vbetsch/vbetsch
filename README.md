@@ -7,8 +7,6 @@ built to last.
 <div style="display: flex; gap: 5px;">
     <img alt="" src="img/email.svg"/>
     <a href="mailto:vbetsch.contact@gmail.com">Email</a>
-</div>
-<div style="display: flex; gap: 5px;">
     <img alt="" src="img/linkedin.svg"/>
     <a href="https://www.linkedin.com/in/vbetsch">LinkedIn</a>
 </div>
