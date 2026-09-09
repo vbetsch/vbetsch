@@ -30,6 +30,7 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
 
+[![Wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvbetsch&query=%24.public_repos&label=Repositories&color=blue)
 ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Avbetsch&query=%24.total_count&label=Commits&color=purple)
 ![Pull Requests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Avbetsch%2Btype%3Apr&query=%24.total_count&label=Pull%20Requests&color=success)
