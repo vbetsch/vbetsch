@@ -4,12 +4,18 @@ As a **Full-Stack Software Engineer**, years on the field have taught me one cor
 technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
 built to last.
 
-<div style="display: flex; gap: 5px;">
-    <img alt="" src="img/email.svg"/>
-    <a href="mailto:vbetsch.contact@gmail.com">Email</a>
-    <img alt="" src="img/linkedin.svg"/>
-    <a href="https://www.linkedin.com/in/vbetsch">LinkedIn</a>
+<div style="display: flex; gap: 10px;">
+    <div style="display: flex; gap: 5px;">
+        <img alt="" src="img/email.svg"/>
+        <a href="mailto:vbetsch.contact@gmail.com">Email</a>
+    </div>
+    <div style="display: flex; gap: 5px;">
+        <img alt="" src="img/linkedin.svg"/>
+        <a href="https://www.linkedin.com/in/vbetsch">LinkedIn</a>
+    </div>
 </div>
+
+<br>
 
 [LinkedIn](https://www.linkedin.com/in/vbetsch)
 [Email](mailto:vbetsch.contact@gmail.com)
