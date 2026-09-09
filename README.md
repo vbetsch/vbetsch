@@ -17,8 +17,8 @@ optimize my overall development workflow.
 
 ### 🛠️ Core Tech Stack & Tooling
 
-* **Core Ecosystem:** TypeScript, Java, Next.js, React, Angular, Astro
-* **Quality & Craftsmanship:** TDD, Clean Architecture, Vitest, Jest, Cypress, ESLint, Oxlint
+* **Core Ecosystem:** TypeScript, Java, Hono, Next.js, React, Angular, Astro
+* **Quality & Craftsmanship:** TDD, Clean Architecture, Vitest, Jest, Playwright, ESLint, JUnit
 * **Ops & Environment:** Docker, GitHub Actions, ArchLinux
 * **Product & Design:** Figma, Responsive Design, UI/UX Prototyping
 
