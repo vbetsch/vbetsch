@@ -8,20 +8,10 @@ built to last.
 &nbsp;|&nbsp; 📄 **[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)**
 &nbsp;|&nbsp; 🌐 **[Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
-[![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-111&style=flat-square&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
-[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=flat-square&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
-[![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
-[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
-[![CV (FR)](https://img.shields.io/badge/CV_(FR)-20232A?style=for-the-badge&logo=readdotcv&logoColor=61DAFB)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
-[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-20232A?style=for-the-badge&logo=rocket&logoColor=10B981)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
+[![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-20232A?style=for-the-badge&logo=readdotcv&logoColor=61DAFB)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
+[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
 At my core, I am driven by a constant need to create and bring ideas to life. I bridge the gap between product and
 engineering by crafting Figma mockups that translate product vision into developer-friendly interfaces before writing
