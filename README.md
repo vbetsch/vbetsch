@@ -15,8 +15,13 @@ in tech talks, continuously refining my network and knowledge around modern web 
 same quest for technical efficiency drives me to use ArchLinux as my daily driver, leaning into custom configurations to
 optimize my overall development workflow.
 
-[//]: # (TODO: ADD STACK)
+### 🛠️ Core Tech Stack & Tooling
 
-⬇️ Explore my featured repositories below to see how I apply clean architecture and TDD in practice. ⬇️
+* **Core Ecosystem:** TypeScript, Java, Next.js, React, Angular, Astro
+* **Quality & Craftsmanship:** TDD, Clean Architecture, Vitest, Jest, Cypress, ESLint, Oxlint
+* **Ops & Environment:** Docker, GitHub Actions, ArchLinux
+* **Product & Design:** Figma, Responsive Design, UI/UX Prototyping
+
+⬇️ Explore my featured repositories below to see how I apply these skills in practice. ⬇️
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
