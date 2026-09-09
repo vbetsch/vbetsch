@@ -4,18 +4,9 @@ As a **Full-Stack Software Engineer**, years on the field have taught me one cor
 technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
 built to last.
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/vbetsch)** &nbsp;|&nbsp; ✉️ **[Email](mailto:vbetsch.contact@gmail.com)**
-&nbsp;|&nbsp; 📄 **[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)**
-&nbsp;|&nbsp; 🌐 **[Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)**
-
 🔗 **[LinkedIn](https://www.linkedin.com/in/vbetsch)** &nbsp;•&nbsp; ✉️ **[Email](mailto:vbetsch.contact@gmail.com)**
 &nbsp;•&nbsp; ⚡ **[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)**
 &nbsp;•&nbsp; 🚀 **[Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
-[![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-20232A?style=for-the-badge&logo=readdotcv&logoColor=61DAFB)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
-[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
