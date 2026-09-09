@@ -9,6 +9,28 @@ built to last.
 [![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
+[![CV (FR)](https://img.shields.io/badge/Curriculum_Vitae_(FR)-111&style=flat-square&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
+[![Portfolio (FR)](https://img.shields.io/badge/Portfolio_(FR)-10B981?style=flat-square&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
+
+<p>
+  <a href="https://www.linkedin.com/in/vbetsch" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="14" height="14" alt="LinkedIn" /> <b>LinkedIn</b>
+  </a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:vbetsch.contact@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="14" height="14" alt="Email" /> <b>Email</b>
+  </a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf" target="_blank">
+    📄 <b>CV (FR)</b>
+  </a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://vbetsch-production.s3-website.fr-par.scw.cloud" target="_blank">
+    🌐 <b>Portfolio (FR)</b>
+  </a>
+</p>
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/vbetsch)** &nbsp;|&nbsp; ✉️ **[Email](mailto:vbetsch.contact@gmail.com)** &nbsp;|&nbsp; 📄 **[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)** &nbsp;|&nbsp; 🌐 **[Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)**
+
 At my core, I am driven by a constant need to create and bring ideas to life. I bridge the gap between product and
 engineering by crafting Figma mockups that translate product vision into developer-friendly interfaces before writing
 code. To bring these interfaces to life efficiently, I actively participate in tech talks, continuously refining my
