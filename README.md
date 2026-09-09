@@ -17,7 +17,6 @@ optimize my overall development workflow.
 
 [//]: # (TODO: ADD STACK)
 
-⬇️ Explore my featured repositories below to see how I apply clean architecture, TDD, and modern TypeScript workflows in
-practice. ⬇️
+⬇️ Explore my featured repositories below to see how I apply clean architecture and TDD in practice. ⬇️
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
