@@ -1,5 +1,3 @@
-<img alt="" src="img/banner.jpg" />
-
 # Hello World, I'm Victor Betsch 👋
 
 As a **Full-Stack Software Engineer**, years on the field have taught me one core conviction: untested code is future
