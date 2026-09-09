@@ -4,9 +4,18 @@ As a **Full-Stack Software Engineer**, years on the field have taught me one cor
 technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
 built to last.
 
-[LinkedIn](https://www.linkedin.com/in/vbetsch)<br>
-[Email](mailto:vbetsch.contact@gmail.com)<br>
-[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)<br>
+<div style="display: flex; gap: 5px;">
+    <img alt="" src="img/email.svg"/>
+    <a href="mailto:vbetsch.contact@gmail.com">Email</a>
+</div>
+<div style="display: flex; gap: 5px;">
+    <img alt="" src="img/linkedin.svg"/>
+    <a href="https://www.linkedin.com/in/vbetsch">LinkedIn</a>
+</div>
+
+[LinkedIn](https://www.linkedin.com/in/vbetsch)
+[Email](mailto:vbetsch.contact@gmail.com)
+[Curriculum Vitae (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [Portfolio (FR)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
 At my core, I am driven by a constant need to create and bring ideas to life. I bridge the gap between product and
