@@ -15,7 +15,7 @@ built to last.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
-[![CV - FR](https://img.shields.io/badge/Curriculum_Vitae-0284C7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_en.pdf)
+[![CV - FR](https://img.shields.io/badge/Curriculum_Vitae-0284C7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
 At my core, I am driven by a constant need to create and bring ideas to life. I bridge the gap between product and
