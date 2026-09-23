@@ -23,9 +23,9 @@ ArchLinux au quotidien, en façonnant un environnement sur-mesure pour une produ
 * **Ops & Environnement:** Git, Docker, GitHub Actions
 * **Produit & Design:** Figma, Prototypes UX/UI, Design Responsive
 
-⬇️ Découvre ci-dessous mes repos mis en avant pour voir comment j'applique ces compétences sur le terrain ⬇️
+⬇️ Découvre ci-dessous mes dépôts mis en avant pour voir comment j'applique ces compétences sur le terrain ⬇️
 
-[📁 Explorer tous les repositories](https://github.com/vbetsch?tab=repositories)
+[📁 Explorer tous les dépôts](https://github.com/vbetsch?tab=repositories)
 
 [![Wakatime](https://wakatime.com/badge/user/4db1a817-6b34-49c5-b631-763a3c316a45.svg)](https://wakatime.com/@4db1a817-6b34-49c5-b631-763a3c316a45)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvbetsch&query=%24.public_repos&label=Repositories&color=blue)
