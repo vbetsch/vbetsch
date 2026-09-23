@@ -25,13 +25,13 @@ je participe activement à des conférences tech, enrichissant continuellement m
 architectures web modernes et du Software Craftsmanship. C'est cette même exigence technique qui m'amène à utiliser
 ArchLinux au quotidien, en façonnant un environnement sur-mesure pour une productivité maximale.
 
-### 🛠️ Core Tech Stack & Tooling
+### 🛠️ Stack technique & Outils
 
 * **Langages & Frameworks:** TypeScript, Angular, React, Next.js, NestJS, Java
 * **Qualité & Craftsmanship:** TDD, DDD, Clean Architecture, Tests automatisés
 * **Ops & Environnement:** Git, Docker, GitHub Actions
 * **Produit & Design:** Figma, Prototypes UX/UI, Design Responsive
 
-⬇️ Explore my featured repositories below to see how I apply these skills in practice. ⬇️
+⬇️ Découvre ci-dessous mes repos mis en avant pour voir comment j'applique ces compétences sur le terrain ⬇️
 
-[📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
+[📁 Explorer tous les repositories](https://github.com/vbetsch?tab=repositories)
