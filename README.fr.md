@@ -26,10 +26,10 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 
 ### 🛠️ Core Tech Stack & Tooling
 
-* **Languages & Frameworks:** TypeScript, Angular, React, Next.js, NestJS, Java
-* **Quality & Craftsmanship:** TDD, DDD, Clean Architecture, Automated Testing
-* **Ops & Environment:** Git, Docker, GitHub Actions
-* **Product & Design:** Figma, UI/UX Prototyping, Responsive Design
+* **Langages & Frameworks:** TypeScript, Angular, React, Next.js, NestJS, Java
+* **Qualité & Craftsmanship:** TDD, DDD, Clean Architecture, Tests automatisés
+* **Ops & Environnement:** Git, Docker, GitHub Actions
+* **Produit & Design:** Figma, Prototypes UX/UI, Design Responsive
 
 ⬇️ Explore my featured repositories below to see how I apply these skills in practice. ⬇️
 
