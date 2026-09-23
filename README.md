@@ -31,6 +31,6 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 * **Ops & Environment:** Git, Docker, GitHub Actions
 * **Product & Design:** Figma, UI/UX Prototyping, Responsive Design
 
-⬇️ Explore my featured repositories below to see how I apply these skills in practice. ⬇️
+⬇️ Explore my featured repositories below to see how I apply these skills in practice ⬇️
 
 [📁 Explore all repositories](https://github.com/vbetsch?tab=repositories)
