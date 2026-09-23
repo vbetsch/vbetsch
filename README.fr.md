@@ -18,11 +18,12 @@ web modernes, pensées pour évoluer et construites sur des bases solides.
 [![CV - FR](https://img.shields.io/badge/Curriculum_Vitae-0284C7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud/files/cv_fr.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=astro&logoColor=white)](https://vbetsch-production.s3-website.fr-par.scw.cloud)
 
-At my core, I am driven by a constant need to create and bring ideas to life. I bridge the gap between product and
-engineering by crafting Figma mockups that translate product vision into developer-friendly interfaces before writing
-code. To bring these interfaces to life efficiently, I actively participate in tech talks, continuously refining my
-network and knowledge around modern web architectures and craftsmanship. This same quest for technical efficiency drives
-me to use ArchLinux as my daily driver, leaning into custom configurations to optimize my overall development workflow.
+Créateur dans l'âme, je suis porté par le besoin constant de transformer des idées en solutions concrètes. Je fais le
+pont entre le produit et la technique en concevant des maquettes Figma, traduisant ainsi la vision produit en interfaces
+pensées pour les développeurs avant même de coder. Pour concrétiser ces interfaces avec exigence,
+je participe activement à des conférences tech, enrichissant continuellement mon réseau et mon expertise des
+architectures web modernes et du Software Craftsmanship. C'est cette même exigence technique qui m'amène à utiliser
+ArchLinux au quotidien, en façonnant un environnement sur-mesure pour une productivité maximale.
 
 ### 🛠️ Core Tech Stack & Tooling
 
