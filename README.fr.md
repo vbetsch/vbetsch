@@ -1,5 +1,7 @@
 # Hello World, c'est Victor Betsch 👋
 
+**[🇫🇷 Français](README.fr.md)** &nbsp;•&nbsp; **[🇬🇧 Anglais](README.md)**
+
 En tant que **Développeur Web Full-Stack**, l'expérience m'a appris une règle absolue : le code non testé d'aujourd'hui
 est la dette technique de demain. Passionné par le Software Craftsmanship et le TDD, je conçois des architectures
 web modernes, pensées pour évoluer et construites sur des bases solides.
