@@ -18,8 +18,8 @@ me to use ArchLinux as my daily driver, leaning into custom configurations to op
 ### 🛠️ Core Tech Stack & Tooling
 
 * **Languages & Frameworks:** TypeScript, Angular, React, Next.js, NestJS, Java, SQL
-* **Databases:** PostgreSQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 * **Quality & Craftsmanship:** TDD, DDD, Clean Architecture, Automated Testing
+* **Databases:** PostgreSQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 * **Ops & Environment:** Git, Docker, GitHub Actions
 * **Product & Design:** Figma, UI/UX Prototyping, Responsive Design
 

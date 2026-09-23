@@ -19,8 +19,8 @@ ArchLinux au quotidien, en façonnant un environnement sur-mesure pour une produ
 ### 🛠️ Stack technique & Outils
 
 * **Langages & Frameworks:** TypeScript, Angular, React, Next.js, NestJS, Java
-* **Bases de données:** PostgreSQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 * **Qualité & Craftsmanship:** TDD, DDD, Clean Architecture, Tests automatisés
+* **Bases de données:** PostgreSQL, MySQL, MariaDB, Firestore, MongoDB, Redis
 * **Ops & Environnement:** Git, Docker, GitHub Actions
 * **Produit & Design:** Figma, Prototypes UX/UI, Design Responsive
 
