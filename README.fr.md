@@ -9,9 +9,9 @@
 ![Stars](https://img.shields.io/github/stars/vbetsch?label=Stars&color=yellow&style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=vbetsch&color=57c785&label=Profile%20Views)
 
-As a **Full-Stack Software Engineer**, years on the field have taught me one core conviction: untested code is future
-technical debt. Passionate about Software Craftsmanship and TDD, I craft modern web ecosystems designed to scale and
-built to last.
+En tant que **Développeur Web Full-Stack**, l'expérience m'a appris une règle absolue : le code non testé d'aujourd'hui
+est la dette technique de demain. Passionné par le Software Craftsmanship et le TDD, je conçois des architectures
+web modernes, pensées pour évoluer et construites sur des bases solides.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbetsch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbetsch.contact@gmail.com)
